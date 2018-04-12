@@ -1,0 +1,2 @@
+# webhook.killer
+kills webhooks
